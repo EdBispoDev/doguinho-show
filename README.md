@@ -17,5 +17,6 @@ Funcionalidades:
 Construção do site:
 
 * boostrap, referenciado do própio servidor do boostrap, add dentro da tag 'head'
-* Bibliotecas de ícones utilizados foram 'Material Design ícons'
+* Bibliotecas de ícones utilizados foram 'Material Design ícons', 'flaticon'
 * animação foi utilizada 'LottieFiles'
+
